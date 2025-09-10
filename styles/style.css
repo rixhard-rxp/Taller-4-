@@ -74,7 +74,7 @@ button {
 .contenedor3 {
     display: flex;
     justify-content: flex-end;
-    background-image: url(/assets/images/raptis.png);
+    background-image: url(assets/images/raptis.png);
     color: white;
     padding: 70px;
 }
